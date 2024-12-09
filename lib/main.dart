@@ -70,7 +70,7 @@ class _AcceuilState extends State<Acceuil> {
                   ),
                   NavigationRailDestination(
                     icon: Icon(Icons.camera),
-                    label: Text("Ajouter Image"),
+                    label: Text("Camera"),
                   ),
                 ],
                 selectedIndex: selectedIndex,
